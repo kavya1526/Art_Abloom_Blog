@@ -28,7 +28,7 @@ SECRET_KEY = 'cy2xy&$@@8%_(qj1+$dtdrp1%p3e)z_^##r6^y!+1bk_egy$o@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','art-abloom.herokuapp.com/']
 
 
 # Application definition
